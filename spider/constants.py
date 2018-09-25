@@ -1,0 +1,1 @@
+URL = 'https://www.nintendo.com/games/game-guide?pv=true#filter/switch|-|-|-|-|-|-|-|-|true|-|-|-|-|featured|des|-|-|-'
